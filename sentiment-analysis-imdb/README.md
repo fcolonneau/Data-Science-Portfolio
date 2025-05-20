@@ -46,7 +46,7 @@ Ce projet utilise un modèle BERT pré-entraîné pour analyser le sentiment (po
 4. **(Optionnel) Générez les résultats IMDb** :
    Exécutez le script pour analyser 100 critiques IMDb et générer un graphique :
    ```bash
-   python sentiment_analysis.py
+   python sentiment-analysis-imdb.py
    ```
 
 5. **Lancez l'application Streamlit** :
