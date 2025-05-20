@@ -65,13 +65,12 @@ Ce projet utilise un modèle BERT pré-entraîné pour analyser le sentiment (po
 
 ## Structure du projet
 ```
-sentiment-analyzer/
+sentiment-analysis-imdb/
 ├── app.py                 # Interface Streamlit
 ├── sentiment_analysis.py  # Logique d’analyse de sentiments
 ├── requirements.txt       # Dépendances
 ├── results.csv           # Résultats de l’analyse IMDb (généré)
 ├── visuals/              # Graphiques générés (ex. sentiment_distribution.png)
-├── .gitignore            # Ignore les fichiers temporaires
 └── README.md             # Documentation
 ```
 
